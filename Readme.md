@@ -35,7 +35,7 @@ The complete processed point cloud with bounding boxes.
 
 ## ⚙️ Hardware Setup  
 
-This project was developed and tested using the following LiDAR hardware:  
+This project was developed and tested using the following LiDAR hardware: **Velodyne HDL-64E** 
 ![LiDAR Hardware](images/lidar_velodyne_kitti.jpg)
 
 ---
