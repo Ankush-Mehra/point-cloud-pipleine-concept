@@ -28,7 +28,6 @@ Bounding boxes are generated around each cluster.
 
 ### 6. Final Output  
 The complete processed point cloud with bounding boxes.  <br>
-Click the thumbnail below to watch the demo on YouTube:
 [![Watch the point cloud processing pipeline demo video](https://img.youtube.com/vi/NG4hXilxNBk/0.jpg)](https://youtu.be/NG4hXilxNBk)
 
 ---
