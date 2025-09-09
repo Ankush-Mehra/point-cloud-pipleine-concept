@@ -28,7 +28,7 @@ Bounding boxes are generated around each cluster.
 
 ### 6. Final Output  
 The complete processed point cloud with bounding boxes.  
-<video src="images/Output.avi" controls width="600"></video>
+[![Watch the demo video](https://img.youtube.com/vi/NG4hXilxNBk/0.jpg)](https://youtu.be/NG4hXilxNBk)
 
 ---
 
