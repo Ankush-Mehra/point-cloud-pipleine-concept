@@ -1,7 +1,6 @@
-# Point Cloud Processing Pipeline
+# Point Cloud Processing Pipeline Concept Only
 
 This project demonstrates a LiDAR point cloud processing pipeline with visualization, filtering, ground separation, clustering, and bounding box generation.  
-**unoptimized and for demonstration purposes only**.  
 
 ---
 
