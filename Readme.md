@@ -26,14 +26,10 @@ Objects are clustered using **DBSCAN**.
 Bounding boxes are generated around each cluster.  
 ![Bounding Boxes](images/Bounding_Boxes_AA.png)
 
-### 5. Final Output
+### 6. Final Output
 Bounding boxes are generated around each cluster.  
-![Bounding Boxes](images/point-cloud-pipeline.gif)
+<img src="images/point-cloud-pipeline.gif" width="800" />
 
-
-### 6. Final Output  (Click image for VIDEO)
-The complete processed point cloud with bounding boxes.  <br>
-[![Watch the point cloud processing pipeline demo video](https://img.youtube.com/vi/NG4hXilxNBk/0.jpg)](https://youtu.be/NG4hXilxNBk)
 
 ---
 
