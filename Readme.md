@@ -26,7 +26,7 @@ Objects are clustered using **DBSCAN**.
 Bounding boxes are generated around each cluster.  
 ![Bounding Boxes](images/Bounding_Boxes_AA.png)
 
-### 6. Final Output  
+### 6. Final Output  (Click image for VIDEO)
 The complete processed point cloud with bounding boxes.  <br>
 [![Watch the point cloud processing pipeline demo video](https://img.youtube.com/vi/NG4hXilxNBk/0.jpg)](https://youtu.be/NG4hXilxNBk)
 
@@ -39,10 +39,3 @@ This project was developed and tested using the following LiDAR hardware: **Velo
 
 ---
 
-## 📂 Project Structure (for reference)
-
-
-
-```python
-
-```
