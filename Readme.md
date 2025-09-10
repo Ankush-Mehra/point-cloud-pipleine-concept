@@ -28,7 +28,8 @@ Bounding boxes are generated around each cluster.
 
 ### 6. Final Output
 Bounding boxes are generated around each cluster.  
-<img src="images/point-cloud-pipeline.gif" width="400" />
+![Output](images/Point-cloud-pipeline.gif)
+
 
 
 ---
